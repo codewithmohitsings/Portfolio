@@ -151,7 +151,7 @@ export default function AboutSection() {
 									<h6 className="font-weight-600 font-size-15 mb-1">Web Developer - Cognifyz IT Solutions </h6>
 									<div className="font-size-13 text-dark mb-1"><i className="fa fa-calendar mr-2 text-muted"></i>May 2026 - June 2026</div>
 								</div>
-								<p className="mb-0">Built and deployed responsive, interactive landing pages and web components using HTML, CSS, JavaScript, and modern frontend frameworks (Bootstrap/Bulma).</p>
+								<p className="mb-0"> responsive, interactive landing pages and web components using HTML, CSS, JavaScript, and modern frontend frameworks (Bootstrap/Bulma).</p>
 							</div>
 						</div>
 					</div>
