@@ -4,7 +4,7 @@ This is a personal portfolio website for Mohit Rath, built with Vite and React w
 
 The project combines modern React structure with the existing HTML/CSS/JavaScript portfolio design, so the original visual style remains intact while the app is easier to develop and maintain. It also loads the old jQuery-based plugins at runtime to keep the legacy interactions working inside the React app.
 
-# Features
+## Features
 Home section with intro, role, and social links
 About section with bio, skills, experience, and education
 Projects section showcasing selected work
