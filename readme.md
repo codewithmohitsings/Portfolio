@@ -1,4 +1,4 @@
-This is My Protfolio under construction, almost there
+This is My Protfolio under construction, almost there.
 # About This Project
 This is a personal portfolio website for Mohit Rath, built with Vite and React while preserving the original portfolio layout, styling, and behavior through the legacy assets stored in the public folder. The site presents a clean single-page experience with sections for Home, About, and Projects, plus a theme switcher, decorative effects, and smooth navigation.
 
